@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">application</string>
+    <string name="loading">Loading…</string>
+    <string name="no_internet_connection">No internet connection!</string>
+<string name="lbl_continue">Continue</string>
+<string name="lbl_81">81
+
+</string>
+<string name="lbl_60">60
+
+</string>
+<string name="lbl_frame_2">Frame 2</string>
+<string name="lbl_80">80
+</string>
+<string name="lbl_frame_1">Frame 1</string>
+<string name="lbl_sound_cloud">Sound Cloud</string>
+<string name="lbl_selfi">Selfi
+</string>
+<string name="lbl_89">89
+</string>
+<string name="lbl_702">70
+
+
+</string>
+<string name="lbl_viana_grill">Viana Grill</string>
+<string name="msg_ea_non_tempor_e2">Ea non tempor et laborum proident laborum aliquip tempor aliquip excepteur aliqua culpa in eu. Dolore commodo eu velit commodo id id. Labore proident velit occaecat reprehenderit ullamco aliqua reprehenderit exercitation. nostrud mollit amet. Pariatur deserunt amet exercitation duis   </string>
+<string name="lbl_88">88%</string>
+<string name="lbl_882">88
+
+</string>
+<string name="msg_misty_rock_reso">Misty Rock Resort</string>
+<string name="lbl_australia">Australia</string>
+<string name="lbl_poland">Poland</string>
+<string name="lbl_details">Details</string>
+<string name="lbl_app_navigation">App Navigation</string>
+<string name="lbl_view_all">View All</string>
+<string name="msg_find_your_plac">Find Your  Places</string>
+<string name="lbl_search_here">Search here...</string>
+<string name="lbl_wayanad">Wayanad</string>
+<string name="lbl_70">70
+</string>
+<string name="msg_iphone_13_pro_m2">iPhone 13 Pro Max - 7</string>
+<string name="lbl_hello_shan">Hello, Shan!</string>
+<string name="msg_ea_non_tempor_e">Ea non tempor et laborum proident laborum aliquip tempor aliquip excepteur aliqua culpa in eu. Dolore commodo eu velit commodo id id. Labore proident velit occaecat reprehenderit ullamco aliqua reprehenderit exercitation. nostrud mollit amet. Pariatur deserunt amet exercitation duis   Read more...</string>
+<string name="lbl_barcelona">Barcelona</string>
+<string name="msg_discover_places">Discover places that were once in your wishlist.  We will personalize your travel experience within seconds. </string>
+<string name="msg_find_what_s_bes">Find what\u2019s best for you..</string>
+<string name="lbl_ilunion">ILUNION</string>
+<string name="lbl_95">95%</string>
+<string name="msg_check_your_app">"Check your app's UI from the below demo screens of your app."</string>
+<string name="lbl_get_started">Get Started</string>
+<string name="lbl_10">10+</string>
+<string name="lbl_hungary">Hungary 
+</string>
+<string name="lbl_review">Review</string>
+<string name="lbl_hello">Hello,</string>
+<string name="lbl_952">95</string>
+<string name="lbl_newyork">Newyork</string>
+<string name="lbl_shan"> Shan!</string>
+<string name="lbl_read_more">Read more...</string>
+<string name="msg_iphone_13_pro_m">iPhone 13 Pro Max - 6</string>
+<string name="msg_local_restauran">Local Restaurant</string>
+<string name="msg_recommended_sig"> Recommended sights</string>
+<string name="lbl_detail">Detail</string>
+<string name="msg_design_your_dre">Design your dream destination with VGuide</string>
+<string name="msg_this_contact_has_no_phone_nu">This contact has no phone number</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+    <data>
+        <variable name="soundCloud1VM" type="com.application.app.modules.soundcloud1.data.viewmodel.SoundCloud1VM"/>
+    </data>
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/constraintGroup193"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent" style="@style/groupStylegray_100">
+        <ImageView android:id="@+id/imageImage51"
+            android:layout_gravity="start" android:layout_height="0dp"
+            android:layout_width="0dp" android:scaleType="fitXY"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            imageRes="@{@drawable/img_image51_1}"
+            tools:ignore="ContentDescription" tools:src="@drawable/img_image51_1"/>
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/constraintEllipse340"
+            android:layout_gravity="top|start"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/_887pxv"
+            android:layout_marginEnd="@dimen/_378pxh"
+            android:layout_marginStart="@dimen/_18pxh"
+            android:layout_marginTop="@dimen/_15pxv"
+            android:layout_width="0dp"
+            app:layout_constraintEnd_toEndOf="@+id/imageImage51"
+            app:layout_constraintStart_toStartOf="@+id/imageImage51"
+            app:layout_constraintTop_toTopOf="@+id/imageImage51" style="@style/groupStylewhite_4">
+            <ImageView android:id="@+id/imageVector11"
+                android:layout_gravity="center"
+                android:layout_height="@dimen/_1pxh"
+                android:layout_marginBottom="@dimen/_14pxv"
+                android:layout_marginEnd="@dimen/_10pxh"
+                android:layout_marginStart="@dimen/_10pxh"
+                android:layout_marginTop="@dimen/_15pxv"
+                android:layout_width="@dimen/_10pxh"
+                android:scaleType="fitXY"
+                android:src="@drawable/img_vector11"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" tools:ignore="ContentDescription"/>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

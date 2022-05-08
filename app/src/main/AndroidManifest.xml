@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest package="com.application.app" xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <application android:allowBackup="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name" android:largeHeap="true"
+        android:name="com.application.app.appcomponents.di.MyApp"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true" android:theme="@style/Theme.MyApp" android:usesCleartextTraffic="true">
+        <activity
+            android:name="com.application.app.modules.appnavigation.ui.AppNavigationActivity" android:screenOrientation="portrait"/>
+        <activity android:exported="true"
+            android:name="com.application.app.modules.iphone13promax7.ui.Iphone13ProMax7Activity" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.application.app.modules.soundcloud2.ui.SoundCloud2Activity" android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.application.app.modules.frame1.ui.Frame1Activity" android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.application.app.modules.iphone13promax8.ui.Iphone13ProMax8Activity" android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.application.app.modules.iphone13promax6.ui.Iphone13ProMax6Activity" android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.application.app.modules.soundcloud.ui.SoundCloudActivity" android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.application.app.modules.soundcloud1.ui.SoundCloud1Activity" android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.application.app.modules.iphone13promax10.ui.Iphone13ProMax10Activity" android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.application.app.modules.iphone13promax12.ui.Iphone13ProMax12Activity" android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.application.app.modules.frame2.ui.Frame2Activity" android:screenOrientation="portrait"/>
+    </application>
+</manifest>
